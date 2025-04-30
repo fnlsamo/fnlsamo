@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 🚀
 ## 📫 How to Reach Me
 - 📧 Email: [phsamo.fnl007@gmail.com](mailto:phsamo.fnl007@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/fanuel-samo-85797451](https://www.linkedin.com/in/fanuel-samo-85797451/)  
-- 📞 [Call](tel:+255763555970)  
+- 📞 [Call](phone:+255763555970)  
 - 🏙️ Address:  
   - City: Songwe  
   - Country: Tanzania  
